@@ -1,5 +1,5 @@
 # Image-Colorization-using-Neural-Networks
-This repository contains a `.ipynb` file with our team’s deep learning project focused on automatic colorization of black and white images. We trained a neural network using our own dataset of portraits and scenes to explore applications in historical preservation, media restoration, and medical imaging.
+This repository contains our team’s deep learning project focused on automatic colorization of black and white images. We trained a neural network using our own dataset of portraits and scenes to explore applications in historical preservation, media restoration, and medical imaging. The results of our work on this project is also available to read as a Medium article, available here: https://medium.com/@crystal.leatvanich/image-colorization-using-neural-networks-aeafd10e6ef5
 
 ## Contributing Team Members
 Crystal Leatvanich, Jeonghee (Christina) Son, Kuang-Ching (Amanda) Ting, Tharfeed Ahmed Unus
